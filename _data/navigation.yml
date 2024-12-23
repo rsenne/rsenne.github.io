@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: ryguy.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: ryguy.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: ryguy.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: ryguy.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: ryguy.io/blog/
     
   - title: "CV"
-    url: /cv/
+    url: ryguy.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: ryguy.io/markdown/
