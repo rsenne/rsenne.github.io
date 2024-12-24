@@ -1,0 +1,12 @@
+---
+title: "Hippocampal Engrams Generate Variable Behavioral Responses and Brain-Wide Network States"
+collection: publications
+category: manuscripts
+permalink: /publication/hippocampal_network_engrams
+excerpt: 'Freezing is a defensive behavior commonly examined during hippocampal-mediated fear engram reactivation. How these cellular populations engage the brain and modulate freezing across varying environmental demands is unclear. To address this, we optogenetically reactivated a fear engram in the dentate gyrus subregion of the hippocampus across three distinct contexts in male mice. We found that there were differential amounts of light-induced freezing depending on the size of the context in which reactivation occurred: mice demonstrated robust light-induced freezing in the most spatially restricted of the three contexts but not in the largest. We then utilized graph theoretical analyses to identify brain-wide alterations in cFos expression during engram reactivation across the smallest and largest contexts. Our manipulations induced positive interregional cFos correlations that were not observed in control conditions. Additionally, regions spanning putative "fear" and "defense" systems were recruited as hub regions in engram reactivation networks. Lastly, we compared the network generated from engram reactivation in the small context with a natural fear memory retrieval network. Here, we found shared characteristics such as modular composition and hub regions. By identifying and manipulating the circuits supporting memory function, as well as their corresponding brain-wide activity patterns, it is thereby possible to resolve systems-level biological mechanisms mediating memory''s capacity to modulate behavioral states.'
+date: 2024-01-10
+venue: 'Journal of Neuroscience'
+paperurl: 'http://rsenne.github.io/files/Dorst_Senne_JNeuro_2024.pdf'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
