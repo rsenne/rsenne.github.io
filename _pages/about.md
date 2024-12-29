@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ryan Senne"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
