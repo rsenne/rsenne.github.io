@@ -13,7 +13,7 @@ I'm Ryan, a Ph.D. student in Computational Neuroscience at Boston University. He
 
 My Science
 ======
-As you can probably guess, I study the brain. My interests span a large variety of topics, but my current work focuses on three main areas: the develpment of novel state-space models for neural data analysis, behavioral state-switching during decision making tasks, and the role of astrocytes in learning and memory.  I am currently advised by [Dr. Brian DePasquale](https://depasquale-lab.github.io/), [Dr. Benjamin Scott](https://www.scottcognitionlab.com/), and [Dr. Steve Ramirez](https://theramirezgroup.org/).  
+As you can probably guess, I study the brain. My interests span a large variety of topics, but my current work focuses on three main areas: the development of novel state-space models for neural data analysis, behavioral state-switching during decision making tasks, and the role of astrocytes in learning and memory.  I am currently advised by [Dr. Brian DePasquale](https://depasquale-lab.github.io/), [Dr. Benjamin Scott](https://www.scottcognitionlab.com/), and [Dr. Steve Ramirez](https://theramirezgroup.org/).  
 
 My Projects
 ======

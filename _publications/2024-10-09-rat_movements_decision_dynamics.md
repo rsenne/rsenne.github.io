@@ -10,7 +10,7 @@ period, before choice, that was characterized by head immobility. The length of 
 rats’ decision bounds, and stimuli presented during this period had the greatest impact on choice. Together these results support a model in which internal decision dynamics are reﬂected in movements and demonstrate that inclusion of movement parameters improves the performance of diffusion-to-bound decision models.'
 date: 2024-10-09
 venue: 'Journal of Neurophysiology'
-paperurl: 'http://rsenne.github.io/files/Kane_Senne_JNP_2024.pdf'
+paperurl: 'https://ryguy.io/files/Kane_Senne_JNP_2024.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Use the link above to download or view the full paper.

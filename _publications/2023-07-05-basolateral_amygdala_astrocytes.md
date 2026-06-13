@@ -13,7 +13,7 @@ changes while exploring a novel context, suggesting that these observations are 
 emerging role of these cells in cognition and behavior.'
 date: 2023-07-05
 venue: 'Journal of Neuroscience'
-paperurl: 'http://rsenne.github.io/files/Suthard_Senne_JNeuro_2023.pdf'
+paperurl: 'https://ryguy.io/files/Suthard_Senne_JNeuro_2023.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Use the link above to download or view the full paper.
