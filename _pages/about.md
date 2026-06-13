@@ -17,7 +17,7 @@ As you can probably guess, I study the brain. My interests span a large variety 
 
 My Projects
 ======
-The first part of my Ph.D. has been largely spent on developing an open-source software package for analyzing neural data using state-space models. My package [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl) is written in Julia and meant to be the go-to package for hierarchical state-space modeling of neural data. Currently, the package is under review at [The Journal of Open Source Software](https://joss.theoj.org/). I am currently working on adding the recurrent switching linear dynamical system to the model offerings.
+The first part of my Ph.D. has been largely spent on developing an open-source software package for analyzing neural data using state-space models. My package [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl) is written in Julia and meant to be the go-to package for hierarchical state-space modeling of neural data. The package is published in [The Journal of Open Source Software](https://doi.org/10.21105/joss.08077). I am currently working on adding the recurrent switching linear dynamical system to the model offerings.
 
 Another aim of my Ph.D. is invested in understanding how agents flexibly make decisions: for example, under what environmental conditions do animals move from impulsive to more deliberative decision making? Can this be read out in the neural data? What cell types are involved? To answer these questions, I am developing a novel analysis framework that combines behavioral modeling with neural data analysis.
 
