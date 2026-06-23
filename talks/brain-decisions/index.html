@@ -20,15 +20,18 @@
   .reveal .accent { color: var(--accent); }
   .reveal .good { color: var(--good); }
   .reveal .bad { color: var(--bad); }
-  .reveal .lead { font-size: 1.35em; line-height: 1.4; }
+  .reveal .lead { font-size: 1.25em; line-height: 1.35; }
   .reveal .small { font-size: 0.7em; color: #9aa7b3; }
   .reveal em { color: var(--accent); font-style: normal; }
+  /* Keep slide content within the stage so nothing clips at the bottom. */
+  .reveal .slides section { padding: 8px 0; }
+  .reveal p { margin: 0.5em 0; }
   .demo { background: linear-gradient(135deg, #143b5c, #0c2236); border: 2px solid var(--accent);
     border-radius: 16px; padding: 28px 40px; }
   .demo .tag { display:inline-block; background: var(--accent); color:#04121f; font-weight:800;
     padding: 6px 16px; border-radius: 999px; font-size: 0.55em; letter-spacing: 1.5px; }
   .reveal ul { width: 100%; }
-  .reveal li { margin: 12px 0; }
+  .reveal li { margin: 8px 0; }
   .knob { color: var(--accent); font-weight: 700; }
   table.knobs td { padding: 6px 18px 6px 0; vertical-align: top; }
   .pill { background:#1b2733; border-radius:10px; padding:12px 18px; display:inline-block; margin:6px; font-size:0.9em;}
@@ -498,6 +501,13 @@ v = s * k * c^alpha</pre>
     hash: true,
     slideNumber: 'c/t',
     transition: 'slide',
+    // Wider + taller design stage: fills a widescreen monitor (less text wrapping,
+    // so slides are shorter) and gives dense slides room so nothing clips at the bottom.
+    width: 1280,
+    height: 800,
+    margin: 0.04,
+    minScale: 0.2,
+    maxScale: 1.8,
     plugins: [ RevealNotes ],
   });
 </script>
