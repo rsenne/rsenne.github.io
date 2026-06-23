@@ -5,7 +5,7 @@ type: "Outreach talk"
 permalink: /talks/2026-06-23-brain-decisions
 venue: "High school outreach visit"
 date: 2026-06-23
-location: "[[ school / city, state — edit me ]]"
+location: "Weston, MA"
 slidesurl: /talks/brain-decisions/
 ---
 
